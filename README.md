@@ -29,3 +29,4 @@
 29. MVVM原理，双向绑定，观察者模式,nextTick原理是啥，怎么做到更新的
 30. Vue3新特性，Vue3怎么做到解决数组问题的，Vue2中的$set怎么实现的
 31. Vue和React中key的作用，使用index有啥问题
+32. 自定义Hooks，常用的hook做封装
