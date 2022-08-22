@@ -13,7 +13,7 @@
 13. 组件懒加载import()原理，为啥需要一个babel相关的plugin，这个plugin做了啥
 14. 浏览器渲染原理，框图表示和记忆，浏览器输入url都做了啥
 15. debuger原理，console.log/dir/warn/error怎么做到打印的
-16. Webpack打包流程，loader和plugin有啥用，原理是啥，vite怎么做到更快的，loader为啥是从右到左的，devServer proxy原理，HMR原理（websocket应用）
+16. Webpack打包流程，loader和plugin有啥用，原理是啥，vite怎么做到更快的，loader为啥是从右到左的，devServer proxy原理，HMR原理（websocket应用），weboack的bundle机制（对比Vite的unbundle机制）
 17. Vue-cli和React-cli原理是啥
 18. Npm install都做了啥，package.json都有啥用，怎么管理依赖的版本号（^/~），怎么更新依赖到最新版本
 19. npm run/yarn xxx都做了啥，跟scripts怎么关联上的
