@@ -1,5 +1,5 @@
 1. Vue单文件组件都做了啥，Vue.use能干啥，原理
-2. Vue-router怎么做路由的
+2. Vue-router怎么做路由的，keep-alive原理和注意事项
 3. Vuex怎么做共享的
 4. HTTP2的好处，必须用https吗，跟https有啥区别，https怎么保障安全的
 5. Axios原理，内部都做了啥，axios-retry原理
